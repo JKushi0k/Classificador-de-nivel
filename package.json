@@ -1,0 +1,13 @@
+{
+  "name": "1-classificador-de-nivel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nivelDeHeroi.js",
+  "scripts": {
+    "test": "node nivelDeHeroi.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
